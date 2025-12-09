@@ -1,1 +1,1 @@
-This project is a fully responsive Internet Service Provider (ISP) website designed as part of our first-year web development course. The goal of the project was to create a modern and user-friendly website showcasing available internet plans, add-ons, and company information, using HTML, CSS, and Bootstrap.
+
